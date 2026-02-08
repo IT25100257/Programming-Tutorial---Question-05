@@ -18,9 +18,6 @@ class Calculator {
     }
 }
 
-// Main class with the program entry point
-public class Main {
-    
     public static void main(String[] args) {
         
         // Create an object of Calculator class
@@ -52,4 +49,3 @@ public class Main {
         System.out.println("Result = " + result2);
 
     }
-}
